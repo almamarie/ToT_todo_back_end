@@ -1,0 +1,28 @@
+{
+  "name": "todo_webservice",
+  "version": "1.0.0",
+  "description": "a todo webservice for a flutter mobile app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almamarie/ToT-todo-webservice.git"
+  },
+  "author": "Loumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almamarie/ToT-todo-webservice/issues"
+  },
+  "homepage": "https://github.com/almamarie/ToT-todo-webservice#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
